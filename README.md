@@ -6,6 +6,10 @@ cleaned Excel export — no install, no server, no data leaving your machine.
 
 Built for the **Rolston Lab (ASU)**.
 
+![The Graph tab: Nyquist impedance of a Molicel 21700 cell, coloured by cycle age](docs/screenshot-graph.png)
+
+<sub>Nyquist view of one cell over 20 cycles — solid lines are the diffusion-limited (Warburg) branch, dotted lines the kinetic arc, coloured early → late by cycle number.</sub>
+
 ---
 
 ## Quick start
