@@ -119,3 +119,13 @@ Written by **[Isaiah Milkey](https://github.com/Isaiah-Milkey)**. Originally dev
 the upstream repository — full commit history and authorship are preserved here.
 
 Built on [Plotly.js](https://plotly.com/javascript/) and [SheetJS](https://sheetjs.com/).
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify, and redistribute, with
+attribution and without warranty.
+
+Copyright © 2026 Rolston Lab, Arizona State University. The original code was authored by
+Isaiah Milkey; please keep that attribution intact in any derivative work.
